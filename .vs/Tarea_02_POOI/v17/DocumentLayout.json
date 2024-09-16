@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA8FF2-E895-40C3-8784-73575BD4263E}|EJERCICIO_09-PELOTA\\EJERCICIO_09-PELOTA.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicio_09-pelota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BA8FF2-E895-40C3-8784-73575BD4263E}|EJERCICIO_09-PELOTA\\EJERCICIO_09-PELOTA.csproj|solutionrelative:ejercicio_09-pelota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BA8FF2-E895-40C3-8784-73575BD4263E}|EJERCICIO_09-PELOTA\\EJERCICIO_09-PELOTA.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicio_09-pelota\\pelota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BA8FF2-E895-40C3-8784-73575BD4263E}|EJERCICIO_09-PELOTA\\EJERCICIO_09-PELOTA.csproj|solutionrelative:ejercicio_09-pelota\\pelota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210D379-9D7F-487C-BA40-35086F6A870A}|EJERCICIO_08-ASESOR\\EJERCICIO_08-ASESOR.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicio_08-asesor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210D379-9D7F-487C-BA40-35086F6A870A}|EJERCICIO_08-ASESOR\\EJERCICIO_08-ASESOR.csproj|solutionrelative:ejercicio_08-asesor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210D379-9D7F-487C-BA40-35086F6A870A}|EJERCICIO_08-ASESOR\\EJERCICIO_08-ASESOR.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicio_08-asesor\\asesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210D379-9D7F-487C-BA40-35086F6A870A}|EJERCICIO_08-ASESOR\\EJERCICIO_08-ASESOR.csproj|solutionrelative:ejercicio_08-asesor\\asesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6F1363-EF8A-4A14-A73C-998376430D0D}|EJERCICIO_07-EMPLEADO\\EJERCICIO_07-EMPLEADO.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicio_07-empleado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6F1363-EF8A-4A14-A73C-998376430D0D}|EJERCICIO_07-EMPLEADO\\EJERCICIO_07-EMPLEADO.csproj|solutionrelative:ejercicio_07-empleado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6F1363-EF8A-4A14-A73C-998376430D0D}|EJERCICIO_07-EMPLEADO\\EJERCICIO_07-EMPLEADO.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicio_07-empleado\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6F1363-EF8A-4A14-A73C-998376430D0D}|EJERCICIO_07-EMPLEADO\\EJERCICIO_07-EMPLEADO.csproj|solutionrelative:ejercicio_07-empleado\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A076195-0E25-49FE-B11D-B83E5803538E}|EJERCICIO_06-PACIENTE\\EJERCICIO_06-PACIENTE.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicio_06-paciente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A076195-0E25-49FE-B11D-B83E5803538E}|EJERCICIO_06-PACIENTE\\EJERCICIO_06-PACIENTE.csproj|solutionrelative:ejercicio_06-paciente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A076195-0E25-49FE-B11D-B83E5803538E}|EJERCICIO_06-PACIENTE\\EJERCICIO_06-PACIENTE.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicio_06-paciente\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A076195-0E25-49FE-B11D-B83E5803538E}|EJERCICIO_06-PACIENTE\\EJERCICIO_06-PACIENTE.csproj|solutionrelative:ejercicio_06-paciente\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB36D523-5E68-4C8D-8656-A5CF399F83BC}|EJERCIOCIO_05-VIDEO\\EJERCICIO_05-VIDEO.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejerciocio_05-video\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB36D523-5E68-4C8D-8656-A5CF399F83BC}|EJERCIOCIO_05-VIDEO\\EJERCICIO_05-VIDEO.csproj|solutionrelative:ejerciocio_05-video\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB36D523-5E68-4C8D-8656-A5CF399F83BC}|EJERCIOCIO_05-VIDEO\\EJERCICIO_05-VIDEO.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejerciocio_05-video\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB36D523-5E68-4C8D-8656-A5CF399F83BC}|EJERCIOCIO_05-VIDEO\\EJERCICIO_05-VIDEO.csproj|solutionrelative:ejerciocio_05-video\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBBBB6-64E0-421F-BA23-6F13BCEE5892}|EJERCICIO_04-OBRERO\\EJERCICIO_04-OBRERO.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicio_04-obrero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBBBB6-64E0-421F-BA23-6F13BCEE5892}|EJERCICIO_04-OBRERO\\EJERCICIO_04-OBRERO.csproj|solutionrelative:ejercicio_04-obrero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBBBB6-64E0-421F-BA23-6F13BCEE5892}|EJERCICIO_04-OBRERO\\EJERCICIO_04-OBRERO.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicio_04-obrero\\obrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBBBB6-64E0-421F-BA23-6F13BCEE5892}|EJERCICIO_04-OBRERO\\EJERCICIO_04-OBRERO.csproj|solutionrelative:ejercicio_04-obrero\\obrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB45E129-F2DC-4892-B560-DC4A9CDF7244}|EJERCICIO_03-EDIFICIO\\EJERCICIO_03-EDIFICIO.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicio_03-edificio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB45E129-F2DC-4892-B560-DC4A9CDF7244}|EJERCICIO_03-EDIFICIO\\EJERCICIO_03-EDIFICIO.csproj|solutionrelative:ejercicio_03-edificio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB45E129-F2DC-4892-B560-DC4A9CDF7244}|EJERCICIO_03-EDIFICIO\\EJERCICIO_03-EDIFICIO.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicio_03-edificio\\edificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB45E129-F2DC-4892-B560-DC4A9CDF7244}|EJERCICIO_03-EDIFICIO\\EJERCICIO_03-EDIFICIO.csproj|solutionrelative:ejercicio_03-edificio\\edificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6504F975-50FD-4209-B490-610F4BAC7F88}|EJERCICIO_02-COMPUTADORA\\EJERCICIO_02-COMPUTADORA.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicio_02-computadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6504F975-50FD-4209-B490-610F4BAC7F88}|EJERCICIO_02-COMPUTADORA\\EJERCICIO_02-COMPUTADORA.csproj|solutionrelative:ejercicio_02-computadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6504F975-50FD-4209-B490-610F4BAC7F88}|EJERCICIO_02-COMPUTADORA\\EJERCICIO_02-COMPUTADORA.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicio_02-computadora\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6504F975-50FD-4209-B490-610F4BAC7F88}|EJERCICIO_02-COMPUTADORA\\EJERCICIO_02-COMPUTADORA.csproj|solutionrelative:ejercicio_02-computadora\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29C4BAA-578C-4D2D-9103-893BC1628611}|EJERCICIOS\\EJERCICIO_01-CELULAR.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29C4BAA-578C-4D2D-9103-893BC1628611}|EJERCICIOS\\EJERCICIO_01-CELULAR.csproj|solutionrelative:ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29C4BAA-578C-4D2D-9103-893BC1628611}|EJERCICIOS\\EJERCICIOS.csproj|C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29C4BAA-578C-4D2D-9103-893BC1628611}|EJERCICIOS\\EJERCICIOS.csproj|solutionrelative:ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29C4BAA-578C-4D2D-9103-893BC1628611}|EJERCICIOS\\EJERCICIO_01-CELULAR.csproj|c:\\users\\natali\\onedrive\\desktop\\tercer_ciclo\\01_poo_1\\ejercicios_practicos\\t area_02_pooi\\ejercicios\\celular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29C4BAA-578C-4D2D-9103-893BC1628611}|EJERCICIOS\\EJERCICIO_01-CELULAR.csproj|solutionrelative:ejercicios\\celular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29C4BAA-578C-4D2D-9103-893BC1628611}|EJERCICIOS\\EJERCICIOS.csproj|C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\ejercicios\\celular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29C4BAA-578C-4D2D-9103-893BC1628611}|EJERCICIOS\\EJERCICIOS.csproj|solutionrelative:ejercicios\\celular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_09-PELOTA\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_09-PELOTA\\Program.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_09-PELOTA\\Program.cs",
+              "RelativeToolTip": "EJERCICIO_09-PELOTA\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:21:55.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pelota.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_09-PELOTA\\Pelota.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_09-PELOTA\\Pelota.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_09-PELOTA\\Pelota.cs",
+              "RelativeToolTip": "EJERCICIO_09-PELOTA\\Pelota.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:21:51.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_08-ASESOR\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_08-ASESOR\\Program.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_08-ASESOR\\Program.cs",
+              "RelativeToolTip": "EJERCICIO_08-ASESOR\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:21:47.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Asesor.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_08-ASESOR\\Asesor.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_08-ASESOR\\Asesor.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_08-ASESOR\\Asesor.cs",
+              "RelativeToolTip": "EJERCICIO_08-ASESOR\\Asesor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:21:42.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_07-EMPLEADO\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_07-EMPLEADO\\Program.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_07-EMPLEADO\\Program.cs",
+              "RelativeToolTip": "EJERCICIO_07-EMPLEADO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:21:37.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_07-EMPLEADO\\Empleado.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_07-EMPLEADO\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_07-EMPLEADO\\Empleado.cs",
+              "RelativeToolTip": "EJERCICIO_07-EMPLEADO\\Empleado.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:21:32.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_06-PACIENTE\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_06-PACIENTE\\Program.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_06-PACIENTE\\Program.cs",
+              "RelativeToolTip": "EJERCICIO_06-PACIENTE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:21:27.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_06-PACIENTE\\Paciente.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_06-PACIENTE\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_06-PACIENTE\\Paciente.cs",
+              "RelativeToolTip": "EJERCICIO_06-PACIENTE\\Paciente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:21:23.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCIOCIO_05-VIDEO\\Video.cs",
+              "RelativeDocumentMoniker": "EJERCIOCIO_05-VIDEO\\Video.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCIOCIO_05-VIDEO\\Video.cs",
+              "RelativeToolTip": "EJERCIOCIO_05-VIDEO\\Video.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:21:11.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCIOCIO_05-VIDEO\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCIOCIO_05-VIDEO\\Program.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCIOCIO_05-VIDEO\\Program.cs",
+              "RelativeToolTip": "EJERCIOCIO_05-VIDEO\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:21:09.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_04-OBRERO\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_04-OBRERO\\Program.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_04-OBRERO\\Program.cs",
+              "RelativeToolTip": "EJERCICIO_04-OBRERO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:21:05.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Obrero.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_04-OBRERO\\Obrero.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_04-OBRERO\\Obrero.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_04-OBRERO\\Obrero.cs",
+              "RelativeToolTip": "EJERCICIO_04-OBRERO\\Obrero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:20:58.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_03-EDIFICIO\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_03-EDIFICIO\\Program.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_03-EDIFICIO\\Program.cs",
+              "RelativeToolTip": "EJERCICIO_03-EDIFICIO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:20:53.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edificio.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_03-EDIFICIO\\Edificio.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_03-EDIFICIO\\Edificio.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_03-EDIFICIO\\Edificio.cs",
+              "RelativeToolTip": "EJERCICIO_03-EDIFICIO\\Edificio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:20:50.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_02-COMPUTADORA\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_02-COMPUTADORA\\Program.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_02-COMPUTADORA\\Program.cs",
+              "RelativeToolTip": "EJERCICIO_02-COMPUTADORA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:20:45.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Computadora.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_02-COMPUTADORA\\Computadora.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_02-COMPUTADORA\\Computadora.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIO_02-COMPUTADORA\\Computadora.cs",
+              "RelativeToolTip": "EJERCICIO_02-COMPUTADORA\\Computadora.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:20:42.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIOS\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIOS\\Program.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIOS\\Program.cs",
+              "RelativeToolTip": "EJERCICIOS\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:19:31.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Celular.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIOS\\Celular.cs",
+              "RelativeDocumentMoniker": "EJERCICIOS\\Celular.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIOS\\Celular.cs",
+              "RelativeToolTip": "EJERCICIOS\\Celular.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:19:08.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Celular.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIOS\\Celular.cs",
+              "RelativeDocumentMoniker": "EJERCICIOS\\Celular.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIOS\\Celular.cs",
+              "RelativeToolTip": "EJERCICIOS\\Celular.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:16:24.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIOS\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIOS\\Program.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Desktop\\TERCER_CICLO\\01_POO_1\\EJERCICIOS_PRACTICOS\\T area_02_POOI\\EJERCICIOS\\Program.cs",
+              "RelativeToolTip": "EJERCICIOS\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:15:34.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
